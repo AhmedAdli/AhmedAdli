@@ -1,7 +1,7 @@
 <h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
 I'm Ahmed Adli, I'm a software quality control working in the information technology and services industry.
-- Rashaqa mobile app: [Android](https://play.google.com/store/apps/details?id=com.madarsoft.fitness),[IOS](https://apps.apple.com/us/app/%D8%B1%D8%B4%D8%A7%D9%82%D8%A9-%D9%86%D9%85%D8%B4%D9%89-%D8%B5%D8%AD/id1343105318?ls=1))
+- Rashaqa mobile app: ([Android](https://play.google.com/store/apps/details?id=com.madarsoft.fitness),[IOS](https://apps.apple.com/us/app/%D8%B1%D8%B4%D8%A7%D9%82%D8%A9-%D9%86%D9%85%D8%B4%D9%89-%D8%B5%D8%AD/id1343105318?ls=1))
 - Rashqa Website: [Rashaqa](https://rashaqa.net/)
 
 ---
