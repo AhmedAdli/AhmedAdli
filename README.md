@@ -5,7 +5,7 @@ I'm Ahmed Adli, I'm a software quality control working in the information techno
 - Rashqa Website: [Rashaqa](https://rashaqa.net/)
 
 ---
-
+/*
 **Currently I am working ...**
 
 - <div>
@@ -18,7 +18,7 @@ I'm Ahmed Adli, I'm a software quality control working in the information techno
     <br /> 
     <br /> 
   </div>
- 
+ */
 ---
 
 **Languages and Tools:**
