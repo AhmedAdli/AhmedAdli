@@ -3,22 +3,7 @@
 I'm Ahmed Adli, I'm a software quality control working in the information technology and services industry.
 - Rashaqa mobile app: ([Android](https://play.google.com/store/apps/details?id=com.madarsoft.fitness),[IOS](https://apps.apple.com/us/app/%D8%B1%D8%B4%D8%A7%D9%82%D8%A9-%D9%86%D9%85%D8%B4%D9%89-%D8%B5%D8%AD/id1343105318?ls=1))
 - Rashqa Website: [Rashaqa](https://rashaqa.net/)
-
----
-/*
-**Currently I am working ...**
-
-- <div>
-    <img width="150" height="150" align='left' src="https://user-images.githubusercontent.com/9745100/194962357-cfadbd8e-6693-4e9c-8aed-40ec61ca3989.jpg">
-    ... as a <strong>Software Quality Control</strong> at Madar Software. where I have been working on testing mobile applications on both platforms IOS and Android
-    <br />
-    <strong>View: </strong> <a href="Madar SoftWare" >madarsoft.com</a> 
-    <br /> 
-    <br /> 
-    <br /> 
-    <br /> 
-  </div>
- */
+ 
 ---
 
 **Languages and Tools:**
